@@ -1,3 +1,5 @@
+
+
 SELECT FROM mara
   FIELDS matnr
   INTO TABLE @DATA(gt_mara)."SIMPLE SELECT 
