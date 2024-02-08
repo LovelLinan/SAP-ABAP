@@ -2,3 +2,20 @@ STRUCTURES
 
 LINK : https://www.youtube.com/watch?v=tZJR96fWfek
 
+DEFINITION: Data type compose of data elements, table types and tables. 
+
+TYPES:
+- APPEND
+- INCLUDE
+
+IMPLEMENTATIONS
+1. Go to SE11
+2. Provide DATA TYPE NAME and select STRUCTURE
+3. Provide SHORT DESCRIPTION
+4. Enter FIELDS. 
+5. Activate.
+
+
+
+
+
