@@ -1,0 +1,15 @@
+DATA ELEMEMTS 
+
+LINKS: https://www.youtube.com/watch?v=uHS20vsrE3U
+
+DEFINTION: Specify or describe the columns in database table.
+
+TYPES
+1. Elementary
+2. References
+
+IMPLEMENTATIONS
+1. Go to SE11
+2. Select data type and provide name. 
+3. Click create and and select date element
+4. Select if elementary data types(inheret Domains) or reference type (inherit existing Data Element)
