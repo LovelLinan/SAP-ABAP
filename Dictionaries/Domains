@@ -1,38 +1,10 @@
-Creating Domains 
+DOMAINS
 
-Prerequisites:
-Before creating a new domain, check whether a domain that defines the same value range already exists. In this case you must use the existing domain if possible.
+Definition: 
+- A domain is a standalone dictionary object that defines technical and semantic attributes of elementary data types. Data elements can be defined with reference to a domain and inherit its attributes. Domains can only be used in data elements.
 
-Procedure
-       1.      Open the Repository Browser and navigate to the package in which you want to create the domain.
-       2.      In the context menu of the package, choose Create → Dictionary Object → Domain.
-
-A dialog box appears.
-
-       3.      In the new dialog box, enter the name of the domain and choose This graphic is explained in the accompanying text with the quick info text Continue.
-
-The maintenance screen for the domain appears.
-
-       4.      Enter an explanatory short text in the Short text field.
-
-For example, you can find the domain at a later time using this short text.
-
-       5.      On the Definition tab page, choose the data type, enter the number of places in the No. Characters field and define the number of decimal places (only needed for data types DEC, FLTP, QUAN and CURR).
-Caution
-
-Some data types have a fixed length. For example, the data type CLNT (client) always has 3 places. If you enter an invalid number of places for such a data type, the system corrects this automatically after issuing a warning.
-
-       6.      In the Output Length field you can define the output length.
-       7.      If you have defined a data type with a decimal floating point for the domain, you must specify the output style in the Output field on the Definition tab page.
-
-For more information, see Output Styles.
-
-       8.      If only certain input values are valid for the domain, you can enter them in the Value range tab page as fixed values.
-
-You can also define a value table as proposed value for foreign key checks on this tab page.
-
-       9.      Choose This graphic is explained in the accompanying text with the quick info text Save.
-
-The system asks you to assign the domain to a package.
-
-      10.      Choose This graphic is explained in the accompanying text with the quick info text Activate.
+Implementation:
+1. Go to SE11
+2. Provide Domain Name
+3. Provide short description and definition
+4. Activate
