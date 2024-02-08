@@ -1,0 +1,20 @@
+TABLE
+
+LINK: https://www.youtube.com/watch?v=oeWNayzaSJQ
+
+TABLE : Database Tables: Tables are used to store data in a structured format. In the Data Dictionary, you can define tables, and specify fields, data types, lengths, and other properties.
+
+TYPES:
+- Custom Table : a table tha have specific process for business requirements
+
+IMPLEMENTATION FOR CUSTOM TABLE
+1. Go to SE11.
+2. Provide DATABASE TABLE NAME and click CREATE.
+3. Provide SHORT DESCRIPTION.
+4. Specify DELIVERY CLASS and TABLE VIEW MAINTENANCE ALLOWED.
+5. Provide FIELDS and specify PRIMARY KEYS then Click TECHINCAL SETTINGS.
+6. In GENERAL CLASS select DATA CLASS and SIZE CATEGORY. Click SAVE and back.
+7. Click save and ACTIVATE.
+
+
+- Standard Table: Existing table that is made by SAP that have standard process
