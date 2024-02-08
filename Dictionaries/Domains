@@ -1,5 +1,7 @@
 DOMAINS
 
+Link: https://www.youtube.com/watch?v=tZJR96fWfek
+
 Definition: 
 - A domain is a standalone dictionary object that defines technical and semantic attributes of elementary data types. Data elements can be defined with reference to a domain and inherit its attributes. Domains can only be used in data elements.
 
