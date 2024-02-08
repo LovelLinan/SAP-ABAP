@@ -1,3 +1,15 @@
 LINK: https://www.youtube.com/watch?v=OzkWAda1IMQ
 
 DEFINITION: Table maintenance generator is a tool which generate table maintenance program. Through table maintenance program we can maintain our custom table. That means through this tool we can edit, add and delete the entries from the custom table to SM30.
+
+IMPLEMENTATION:
+
+1. View an existing custom table
+2. Go to UTILITIES and select TABLE MAINTENANCE GENERATOR
+3. Provide AUTHORIZATION GROUP and FUNCTION GROUP. Povide MAINTENANCE TYPE and  SCREEN NO OR click FIND SCREEN NUMBER then click CREATE ICON.
+4. ACTIVATE.
+
+MAINTAIN DATA.
+1. Go to SM3.
+2. Click MAINTAIN BUTTON.
+3. Maintain Entry.
