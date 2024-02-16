@@ -1,3 +1,7 @@
+REPORT  ZHELLOWORLD.
+
+ WRITE 'hello world'.
+
 Link: https://www.youtube.com/watch?v=nvfRB7q3BK8
 
 Definition: Use to record transaction
