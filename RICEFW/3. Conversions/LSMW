@@ -1,0 +1,10 @@
+Link: 
+https://www.youtube.com/watch?v=HcM_apiZZ7c
+
+Definition:
+SAP LSMW stands for SAP Legacy System Migration Workbench. This tool primarily use to transfer data from external system/legacy system to SAP system.
+
+Implememtation:
+1. Go to LSMW T-CODE.
+2. Provide PROJECT NAME, SUB-PROJECT and OBJECT
+3. Click DEFINE OBJEVCT ATTRIBUTES.  Select BATCH INPUT RECORDING and provide RECORDING NAME. Then click CREATE  ICON. Provide CREATE RECORDING details and T-CODE
